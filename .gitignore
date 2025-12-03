@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# PyInstaller
+*.manifest
+*.spec
+
+
+# Environments
+.venv
+
+# IDE
+.vscode/
+
+# Data files
+data/*.csv
+data/*.json
+!data/README.md
+
+# Results
+results/*.pkl
+results/*.json
+results/*.csv
+
+# OS
+.DS_Store

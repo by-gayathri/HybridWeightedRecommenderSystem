@@ -1,0 +1,31 @@
+# Hybrid Weighted Recommendation Model (HWRM) Dependencies
+# Python 3.x compatible (including 3.14)
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Sparse Matrix Operations (for SVD)
+scipy>=1.11.0
+
+# Association Rule Mining
+mlxtend>=0.23.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Progress bar
+tqdm>=4.65.0
+
+# Configuration
+pyyaml>=6.0.0
+
